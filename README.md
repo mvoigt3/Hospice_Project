@@ -1,2 +1,0 @@
-# Hospice_Project
-WordpressHospiceSite
